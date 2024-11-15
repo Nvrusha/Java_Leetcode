@@ -5,13 +5,13 @@ Welcome to my **Java_Leetcode** repository! 🎉 This repository contains my dai
 ## About This Repository 📚
 
 - **Daily Practice**:
-- I solve LeetCode problems daily and commit my solutions to this repository. 📅
-- 
+  I solve LeetCode problems daily and commit my solutions to this repository. 📅
+  
 - **Clear Comments**:
-- Every code file includes detailed comments explaining each line, making it easy for anyone to understand the logic and approach used in the solution. 📝
-- 
+ Every code file includes detailed comments explaining each line, making it easy for anyone to understand the logic and approach used in the solution. 📝
+  
 - **Organized by Problem**:
-- Each problem is stored in its own folder, named after the problem or its number. 🗂️
+ Each problem is stored in its own folder, named after the problem or its number. 🗂️
   
 ## Repository Structure 🏗️
 ```plaintext
