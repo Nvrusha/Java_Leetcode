@@ -31,11 +31,6 @@ Welcome to my **Java_Leetcode** repository! 🎉 This repository contains my dai
    ```bash
    git clone https://github.com/yourusername/Java_Leetcode.git
 
-## How to Use ⚙️
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/Java_Leetcode.git
-
 ## Approach 💡
 I solve problems daily, ranging from easy to hard levels. 💪
 
